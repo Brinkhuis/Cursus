@@ -12,3 +12,7 @@ To Do List
 * ...
 * Bokeh, Folium, Plotly, Matplotlib, pandas plot, Seaborn
 * map function! with lambda! h_letters = list(map(lambda x: x, 'human'))
+* ...
+* Notebook Viewer online vs Github (rendering)
+
+
