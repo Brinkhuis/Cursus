@@ -7,6 +7,7 @@ het inlezen van csv-files met pandas te oefenen in Python.
 import pandas as pd
 import numpy as np
 import datetime
+import sys
  
 # setup
 file_name = '../data/leesmij.csv'
@@ -31,7 +32,7 @@ for _ in range(na_vals):
 df.to_csv(file_name, sep='/', index=False)
  
 # add opening line to file
-line = 'Dit bestand is gegenereerd t.b.v. de cursus Data Science with Python'
+line = 'Dit bestand is gegenereerd met het script "{}"'.format(sys.argv[0])
 with open(file_name, 'r+') as f:
     file_data = f.read()
     f.seek(0, 0)
