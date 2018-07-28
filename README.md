@@ -15,3 +15,4 @@ v map function! with lambda! h_letters = list(map(lambda x: x, 'human'))
 * ...
 v Notebook Viewer online vs Github (rendering)
 * Opgave widgets en Bokeh toevoegen
+* notebook widgets en bokeh splitsen in 2 notebooks!
