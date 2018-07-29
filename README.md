@@ -88,6 +88,9 @@ Jupyter Notebook: [bokeh](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/b
   * Web Apps
 
 ## To Do List
+* les pandas datetime verwijderen aan het eind?
+* data type `set` toevoegen?
+* notebook met matplotlib.pyplot maken?
 * check documentatie cursussen DataCamp i.v.m. voorkomen overlap (wel "opfrisser")
 * maak separaat nootbook met uitwerkingen van de opdrachten (of verberg deze cellen)
 * maak een index met in welke volgorde wat te doen tijdens de cursus
