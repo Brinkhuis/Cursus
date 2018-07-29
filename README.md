@@ -88,6 +88,7 @@ Jupyter Notebook: [bokeh](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/b
   * Web Apps
 
 ## To Do List
+* folium?
 * les pandas datetime verwijderen aan het eind?
 * data type `set` toevoegen?
 * notebook met matplotlib.pyplot maken?
