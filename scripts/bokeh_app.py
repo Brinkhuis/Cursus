@@ -7,7 +7,7 @@ from bokeh.models.widgets import Select, Dropdown
 from bokeh.sampledata.iris import flowers # load data
 
 # setup data
-species = 'versicolor'
+species = 'setosa'
 source = ColumnDataSource(flowers.loc[flowers.species == species])
 source.data = ColumnDataSource.from_df(flowers.loc[flowers.species == species])
 
@@ -18,7 +18,6 @@ tooltips = [('index', '@index'),
             ('Species', '@species')]
 
 # setup plot
-
 p = figure(plot_width = 400, plot_height = 400, tooltips = tooltips)
 p.circle('sepal_length', 'sepal_width', size = 10, color = 'blue', alpha = 0.5, source = source)
 
