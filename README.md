@@ -1,5 +1,7 @@
 # Cursus Python
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/USTL2gxhRkg/0.jpg)](https://www.youtube.com/watch?v=USTL2gxhRkg)
+
 ## Les 1
 
 Jupyter Notebook: [Python](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/blob/master/notebooks/python.ipynb)
