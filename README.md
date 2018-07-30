@@ -108,3 +108,4 @@ Jupyter Notebook: [bokeh](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/b
 * Opgave widgets en Bokeh toevoegen
 * notebook widgets en bokeh splitsen in 2 notebooks!
 * pytest?
+* new version ipython? probleem met pickle en afbeeldingen opgelost?
