@@ -84,28 +84,14 @@ Jupyter Notebook: [bokeh](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/b
 * Output to Notebook and HTML
   * Scatter plot
   * Scatter plot with colors and legend
-  * Scatter plot with colors and interactive legend
+  * Scatter plot with colors and interactive legend **(opdracht 12a)**
   * Tooltips
   * Data table
   * Dashboard with multiple tabs
 * Bokeh server
-  * Web Apps
+  * Web Apps **(opdracht 12b)**
 
-## To Do List
-* folium?
-* les pandas datetime verwijderen aan het eind?
-* data type `set` toevoegen?
-* notebook met matplotlib.pyplot maken?
-* check documentatie cursussen DataCamp i.v.m. voorkomen overlap (wel "opfrisser")
-* maak separaat nootbook met uitwerkingen van de opdrachten (of verberg deze cellen)
-* maak een index met in welke volgorde wat te doen tijdens de cursus
-* in cursus (datatypes) aangeven wanneer welke opgave gemaakt moet worden.
-* ...
-* Bokeh, Folium, Plotly, Matplotlib, pandas plot, Seaborn
-* map function! with lambda! h_letters = list(map(lambda x: x, 'human'))
-* ...
-* Notebook Viewer online vs Github (rendering)
-* Opgave widgets en Bokeh toevoegen
-* notebook widgets en bokeh splitsen in 2 notebooks!
-* pytest?
-* new version ipython? probleem met pickle en afbeeldingen opgelost?
+## Extra
+* Jupyter Notebook: [ipyleaflet](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/blob/master/notebooks/ipyleaflet.ipynb)
+* Jupyter Notebook: [matplotlib](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/blob/master/notebooks/matplotlib.ipynb)
+* Jupyter Notebook: [plotly](https://nbviewer.jupyter.org/github/Brinkhuis/Cursus/blob/master/notebooks/plotly.ipynb)
